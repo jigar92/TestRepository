@@ -1,5 +1,3 @@
-// Activity uploaded on GitHub
-
 package com.example.t.myapplication;
 
 import android.os.Bundle;
